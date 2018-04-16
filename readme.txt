@@ -1,13 +1,2 @@
-01.项目管理
-02.查看工作去代码修改：git status  xxxx
-03.对比文件xxxx
-04.对比文件yyyyy
-<<<<<<< HEAD
-05.对主干进行修改
-06.在主干进行创建新版本
-=======
-05.创建分支
-06.提交新版本
->>>>>>> dev
-08.hhhh 主分新修改
-
+01.Hello World! This is the first time I use github.
+02.It's very exciting.
